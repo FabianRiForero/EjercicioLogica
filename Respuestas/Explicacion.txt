@@ -1,0 +1,9 @@
+Solucion al ejercicio.
+
+Para la solucion de este ejercicio lo primero que hice fue:
+• Leer el archivo CSV guardarlo en una variable result tipo array.
+• Despues recorri el array con los datos y lo guarde dentro de un objeto en donde el atributo era el nombre del estado y su contenido eran los pueblo, ciudades de este estado "Admin2"
+̉• Despues cree un nuevo array en donde recorri el objeto del paso anterior y saque los datos que necesitaba [total de habitantes, total de acomulado, provincia, porcentaje] colocandolo en el array como un objeto.
+• Despues comence a responder la preguntas donde primero lo organize de menor a mayor por el total de acomulado y lo guarde en una cariable nueva, lo mismo con el punto dos pero ordenando por porcentaje.
+• Para el punto 3 hice un recorrido del array mostrando un mensaje con la informacion de cada estado "En unos datos me aparecio con 3 acumulados y 0 habitantes".
+• Para el punto 4 teniendo los anteriores resultados coloque dos concluciones en donde se muestra el estado con mas muertes y el estado con el mayor porcentaje de muertes

@@ -1,0 +1,117 @@
+El porcentaje de muertes vs el total de la poblacion por estado:
+
+1. El estado American Samoa con una poblacion de 55641 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 0. El porcentaje de muertes sobre habitantes de este estado es del 0%
+
+2. El estado Diamond Princess con una poblacion de 0 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 0. El porcentaje de muertes sobre habitantes de este estado es del 0%
+
+3. El estado Grand Princess con una poblacion de 0 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 3. El porcentaje de muertes sobre habitantes de este estado es del 0%
+
+4. El estado Northern Mariana Islands con una poblacion de 55144 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 2. El porcentaje de muertes sobre habitantes de este estado es del 0.003626867836936022%
+
+5. El estado Virgin Islands con una poblacion de 107268 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 27. El porcentaje de muertes sobre habitantes de este estado es del 0.02517060073833762%
+
+6. El estado Hawaii con una poblacion de 1415872 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 479. El porcentaje de muertes sobre habitantes de este estado es del 0.03383074176196718%
+
+7. El estado Vermont con una poblacion de 623989 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 245. El porcentaje de muertes sobre habitantes de este estado es del 0.039263512658075705%
+
+8. El estado Alaska con una poblacion de 740995 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 347. El porcentaje de muertes sobre habitantes de este estado es del 0.0468289259711604%
+
+9. El estado Maine con una poblacion de 1344212 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 777. El porcentaje de muertes sobre habitantes de este estado es del 0.057803382204592725%
+
+10. El estado Oregon con una poblacion de 4217737 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 2488. El porcentaje de muertes sobre habitantes de este estado es del 0.0589889791610999%
+
+11. El estado Puerto Rico con una poblacion de 3754939 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 2285. El porcentaje de muertes sobre habitantes de este estado es del 0.060853185630978295%
+
+12. El estado Utah con una poblacion de 3205958 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 2186. El porcentaje de muertes sobre habitantes de este estado es del 0.06818554703461492%
+
+13. El estado Washington con una poblacion de 7614893 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 5462. El porcentaje de muertes sobre habitantes de este estado es del 0.0717278627552613%
+
+14. El estado Guam con una poblacion de 164229 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 136. El porcentaje de muertes sobre habitantes de este estado es del 0.08281119656089972%
+
+15. El estado New Hampshire con una poblacion de 1359711 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 1294. El porcentaje de muertes sobre habitantes de este estado es del 0.09516728187092699%
+
+16. El estado Colorado con una poblacion de 5758736 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 6264. El porcentaje de muertes sobre habitantes de este estado es del 0.10877386982143304%
+
+17. El estado Idaho con una poblacion de 1787065 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 2040. El porcentaje de muertes sobre habitantes de este estado es del 0.11415365417598129%
+
+18. El estado Nebraska con una poblacion de 1934408 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 2242. El porcentaje de muertes sobre habitantes de este estado es del 0.11590109222046228%
+
+19. El estado North Carolina con una poblacion de 10488084 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 12583. El porcentaje de muertes sobre habitantes de este estado es del 0.11997424887138584%
+
+20. El estado Wyoming con una poblacion de 578759 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 707. El porcentaje de muertes sobre habitantes de este estado es del 0.12215792756570525%
+
+21. El estado Virginia con una poblacion de 8535519 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 10722. El porcentaje de muertes sobre habitantes de este estado es del 0.12561626305324844%
+
+22. El estado Minnesota con una poblacion de 5639632 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 7169. El porcentaje de muertes sobre habitantes de este estado es del 0.12711822331669867%
+
+23. El estado Wisconsin con una poblacion de 5822434 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 7494. El porcentaje de muertes sobre habitantes de este estado es del 0.1287090587888158%
+
+24. El estado Missouri con una poblacion de 6626371 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 9116. El porcentaje de muertes sobre habitantes de este estado es del 0.13757153048025836%
+
+25. El estado Maryland con una poblacion de 6045680 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 8688. El porcentaje de muertes sobre habitantes de este estado es del 0.14370591893715842%
+
+26. El estado Kentucky con una poblacion de 4467673 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 6476. El porcentaje de muertes sobre habitantes de este estado es del 0.14495241706364811%
+
+27. El estado Montana con una poblacion de 1068778 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 1566. El porcentaje de muertes sobre habitantes de este estado es del 0.1465224770719457%
+
+28. El estado West Virginia con una poblacion de 1792147 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 2662. El porcentaje de muertes sobre habitantes de este estado es del 0.1485369224734355%
+
+29. El estado California con una poblacion de 39512223 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 61526. El porcentaje de muertes sobre habitantes de este estado es del 0.15571384075251854%
+
+30. El estado District of Columbia con una poblacion de 705749 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 1100. El porcentaje de muertes sobre habitantes de este estado es del 0.15586277840988794%
+
+31. El estado Florida con una poblacion de 21477737 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 34958. El porcentaje de muertes sobre habitantes de este estado es del 0.16276388895161534%
+
+32. El estado Ohio con una poblacion de 11689100 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 19188. El porcentaje de muertes sobre habitantes de este estado es del 0.16415292879691337%
+
+33. El estado Delaware con una poblacion de 973764 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 1617. El porcentaje de muertes sobre habitantes de este estado es del 0.1660566625999729%
+
+34. El estado Kansas con una poblacion de 2913314 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 4926. El porcentaje de muertes sobre habitantes de este estado es del 0.16908579027183476%
+
+35. El estado Oklahoma con una poblacion de 3956971 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 6716. El porcentaje de muertes sobre habitantes de este estado es del 0.16972578267568805%
+
+36. El estado Texas con una poblacion de 28995881 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 50027. El porcentaje de muertes sobre habitantes de este estado es del 0.17253140196016117%
+
+37. El estado Nevada con una poblacion de 3080156 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 5444. El porcentaje de muertes sobre habitantes de este estado es del 0.1767442947694857%
+
+38. El estado Tennessee con una poblacion de 6829174 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 12163. El porcentaje de muertes sobre habitantes de este estado es del 0.17810353052946082%
+
+39. El estado South Carolina con una poblacion de 5148714 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 9435. El porcentaje de muertes sobre habitantes de este estado es del 0.18324964253209636%
+
+40. El estado Michigan con una poblacion de 9986857 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 18563. El porcentaje de muertes sobre habitantes de este estado es del 0.18587429458537355%
+
+41. El estado Iowa con una poblacion de 3155070 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 5930. El porcentaje de muertes sobre habitantes de este estado es del 0.1879514559106454%
+
+42. El estado Georgia con una poblacion de 10617423 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 20027. El porcentaje de muertes sobre habitantes de este estado es del 0.18862392503340972%
+
+43. El estado Arkansas con una poblacion de 3017804 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 5725. El porcentaje de muertes sobre habitantes de este estado es del 0.1897074826595763%
+
+44. El estado Illinois con una poblacion de 12671821 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 24174. El porcentaje de muertes sobre habitantes de este estado es del 0.19076974019756118%
+
+45. El estado New Mexico con una poblacion de 2096829 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 4039. El porcentaje de muertes sobre habitantes de este estado es del 0.19262419586909565%
+
+46. El estado Indiana con una poblacion de 6732219 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 13293. El porcentaje de muertes sobre habitantes de este estado es del 0.19745346965094274%
+
+47. El estado North Dakota con una poblacion de 762062 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 1517. El porcentaje de muertes sobre habitantes de este estado es del 0.1990651679259693%
+
+48. El estado Pennsylvania con una poblacion de 12801989 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 26048. El porcentaje de muertes sobre habitantes de este estado es del 0.2034683829208102%
+
+49. El estado Alabama con una poblacion de 4903185 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 10854. El porcentaje de muertes sobre habitantes de este estado es del 0.2213663159762481%
+
+50. El estado South Dakota con una poblacion de 884659 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 1961. El porcentaje de muertes sobre habitantes de este estado es del 0.2216673317063411%
+
+51. El estado Louisiana con una poblacion de 4648794 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 10352. El porcentaje de muertes sobre habitantes de este estado es del 0.22268140941500097%
+
+52. El estado Connecticut con una poblacion de 3565287 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 8067. El porcentaje de muertes sobre habitantes de este estado es del 0.2262650945071182%
+
+53. El estado Arizona con una poblacion de 7278717 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 17276. El porcentaje de muertes sobre habitantes de este estado es del 0.23734952190063166%
+
+54. El estado Mississippi con una poblacion de 2976149 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 7188. El porcentaje de muertes sobre habitantes de este estado es del 0.24152016582503094%
+
+55. El estado Rhode Island con una poblacion de 1059361 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 2664. El porcentaje de muertes sobre habitantes de este estado es del 0.25147234984108346%
+
+56. El estado Massachusetts con una poblacion de 6892503 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 17566. El porcentaje de muertes sobre habitantes de este estado es del 0.25485661740009397%
+
+57. El estado New York con una poblacion de 19453561 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 52117. El porcentaje de muertes sobre habitantes de este estado es del 0.2679046782231798%
+
+58. El estado New Jersey con una poblacion de 8882190 habitantes tuvo un total de muertes por covid hasta la fecha 4/27/21 de 25460. El porcentaje de muertes sobre habitantes de este estado es del 0.2866410198385759%
